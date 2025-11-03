@@ -1,0 +1,18 @@
+.member-card {
+  text-align: center;
+  background: white;
+  border-radius: 15px;
+  color: black;
+  padding-top: 1rem;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+.member-card img{
+    width: 50%;
+}
+.member-name{
+    color: rgb(69, 62, 62);
+}
+.member-role{
+    font-size: 14pt;
+    color: rgb(95, 91, 91);
+}
